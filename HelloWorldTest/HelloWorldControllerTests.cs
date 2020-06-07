@@ -1,4 +1,4 @@
-using MvcMovie.Controllers;
+using HelloWorldSolution.Controllers;
 using System;
 using Xunit;
 
